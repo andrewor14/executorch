@@ -241,6 +241,7 @@ setup(
         "executorch/util": "util",
         "executorch/extension": "extension",
         "executorch/sdk/bundled_program": "sdk/bundled_program",
+        "executorch/examples/models": "examples/models",
         "tosa": "backends/arm/third-party/serialization_lib/python/tosa",
         "serializer": "backends/arm/third-party/serialization_lib/python/serializer",
     },

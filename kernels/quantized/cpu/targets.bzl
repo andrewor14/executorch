@@ -16,7 +16,7 @@ _QUANT_OPS = (
         deps = [
             "//executorch/kernels/portable/cpu/util:reduce_util",
         ],
-        _aten_mode_deps = [
+        _aten_mode_deopop  opps = [
             "//executorch/kernels/portable/cpu/util:reduce_util_aten",
         ],
     ),
